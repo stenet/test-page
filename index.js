@@ -7,5 +7,3 @@ document.addEventListener("DOMContentLoaded", () => {
 }, {
   once: true
 });
-
-alert("loaded");
